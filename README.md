@@ -26,7 +26,7 @@ This character segmentation procedure consists of three sub parts.
 * Correcting the rotated plate images and selecting final ten-character blobs is the last part.
 
 <p align="center">
-  <img src="src/thresh.jpg" width=200 height=80>
+  <img src="src/thresh.jpg" width=190 height=80>
 </p>
 
 <p align="center">
